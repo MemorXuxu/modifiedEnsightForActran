@@ -8,7 +8,7 @@
 # The data in element or node concerning scalar and vector is supported
 # Trim the data as you want. By default, the latest file is calculated by boolean trim_Import and trim_Import_Num
 # Modified point:
-"""
+
 # Specify the name of geometry by parameter geo_name
     model:  1   p****.geo   -->  model:  1   p00001.geo
 # Delete the useless number 1 and the space
@@ -18,4 +18,5 @@
 #
 # It will open a file dialog, and you should select the file
 # After an Ahhh, the result with timeStamp is sit near the selected file
-"""
+
+助力将Ensight转换成Actran能够读取的形式
