@@ -1,0 +1,39 @@
+FORMAT
+type:  ensight gold
+GEOMETRY
+model:ps00001.geo
+VARIABLE
+scalar per node:velocity_magnitude p****.scl1
+scalar per node:x_velocity p****.scl2
+scalar per node:y_velocity p****.scl3
+scalar per node:dx_velocity_dz p****.scl47
+scalar per node:dy_velocity_dz p****.scl48
+scalar per node:dz_velocity_dz p****.scl49
+vector per node:velocity p****.vel
+vector per node:velodsacity p****.vel
+TIME
+time set:1
+number of steps:20
+filename start number:      27900
+filename increment:         10
+time values:
+3.17948e+00
+3.18060e+00
+3.18172e+00
+3.18283e+00
+3.18395e+00
+3.18506e+00
+3.18618e+00
+3.18730e+00
+3.18841e+00
+3.18953e+00
+3.19064e+00
+3.19176e+00
+3.19288e+00
+3.19399e+00
+3.19511e+00
+3.19622e+00
+3.19734e+00
+3.19846e+00
+3.19957e+00
+3.20069e+00
